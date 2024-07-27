@@ -594,7 +594,7 @@ https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/186819.ts
 https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/176200.ts
 #EXTINF:-1 tvg-id="" tvg-name="CHILE  | Chilevision" tvg-logo="https://castlempire.site:443/images/9497a5c61c138e2dd23f1c64ea5171a3.png" group-title="Chile OP2",CHILE  | Chilevision
 https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/176197.ts
-#EXTINF:-1 tvg-id="mega.cl" tvg-name="CHILE  | Mega FHD" tvg-logo="http://castlempire.site:8080/images/83ba1fa3b4e6c2f346775818ccf98ee7.png" group-title="Chile OP2",CHILE  | Mega FHD
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="CHILE  | Mega FHD" tvg-logo="https://castlempire.site:443/images/e17732b6e4b452ad433b3f01cc5fe08a.png" group-title="Chile OP2",CHILE  | Mega FHD
 https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/176203.ts
 #EXTINF:-1 tvg-id="" tvg-name="CHILE  | Teletrak chile" tvg-logo="http://castlempire.site:8080/images/99c02c6739a113d33cb355da0be831bc.png" group-title="Chile OP2",CHILE  | Teletrak chile
 https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/176204.ts
@@ -610,7 +610,7 @@ https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/176211.ts
 https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/176209.ts
 #EXTINF:-1 tvg-id="" tvg-name="CHILE | ETC TV CHILE" tvg-logo="https://castlempire.site:443/images/d754ed0677b41a7afd1185f1b53649aa.png" group-title="Chile OP2",CHILE | ETC TV CHILE
 https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/176214.ts
-#EXTINF:-1 tvg-id="mega.cl" tvg-name="CHILE | Mega HD" tvg-logo="http://castlempire.site:8080/images/83ba1fa3b4e6c2f346775818ccf98ee7.png" group-title="Chile OP2",CHILE | Mega HD
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="CHILE | Mega HD" tvg-logo="https://castlempire.site:443/images/e17732b6e4b452ad433b3f01cc5fe08a.png" group-title="Chile OP2",CHILE | Mega HD
 https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/176207.ts
 #EXTINF:-1 tvg-id="mega.cl" tvg-name="CHILE | Mega SD" tvg-logo="https://castlempire.site:443/images/e17732b6e4b452ad433b3f01cc5fe08a.png" group-title="Chile OP2",CHILE | Mega SD
 https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/176208.ts
@@ -7712,176 +7712,136 @@ https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354335.ts
 https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354336.ts
 #EXTINF:-1 tvg-id="" tvg-name="TUDN USA (exclusivo hd)" tvg-logo="https://castlempire.site:443/images/50bd88b1cf5032738c1d758331ff5f46.png" group-title="⚽Mexico Deportes",TUDN USA (exclusivo hd)
 https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354337.ts
-#EXTINF:-1 tvg-id="" tvg-name="LIVE: President Trump and JD Vance Hold Major Rally in Grand Rapids, Michigan - 7/20/24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8PYGiSMw2CqBiXUHvrTHe5PwV8jhRM_pZiwG3XygEOx-e03IBXZOV_pHcFDDtoc6nejM&usqp=CAU" group-title="ヅLIVE: President Donald Trump Rally",LIVE: President Trump and JD Vance Hold Major Rally in Grand Rapids, Michigan - 7/20/24
+#EXTINF:-1 tvg-id="" tvg-name="LIVE: President Trump Holds a Rally in Charlotte, North Carolina - 7/24/24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8PYGiSMw2CqBiXUHvrTHe5PwV8jhRM_pZiwG3XygEOx-e03IBXZOV_pHcFDDtoc6nejM&usqp=CAU" group-title="ヅLIVE: President Donald Trump Rally",LIVE: President Trump Holds a Rally in Charlotte, North Carolina - 7/24/24
 https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354511.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 • 17:00 Racing vs Huachipato ¹" tvg-logo="https://castlempire.site:443/images/1274eb66a3a53bf9096a6385056a64de.jpg" group-title="⚽Copa Libertadores/Sudamericana",23/07 • 17:00 Racing vs Huachipato ¹
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354893.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 • 17:00 Racing vs Huachipato ²" tvg-logo="https://castlempire.site:443/images/1274eb66a3a53bf9096a6385056a64de.jpg" group-title="⚽Copa Libertadores/Sudamericana",23/07 • 17:00 Racing vs Huachipato ²
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354894.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 • 19:30 Internacional vs Rosario Central 1" tvg-logo="https://castlempire.site:443/images/1274eb66a3a53bf9096a6385056a64de.jpg" group-title="⚽Copa Libertadores/Sudamericana",23/07 • 19:30 Internacional vs Rosario Central 1
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354895.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 • 19:30 Internacional vs Rosario Central ²" tvg-logo="https://castlempire.site:443/images/1274eb66a3a53bf9096a6385056a64de.jpg" group-title="⚽Copa Libertadores/Sudamericana",23/07 • 19:30 Internacional vs Rosario Central ²
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354896.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 •  13:00 Deportivo Riestra vs Argentinos Juniors" tvg-logo="https://castlempire.site:443/images/619ccf49bde023235745b596180688f1.png" group-title="⭐Latinos | EVENTOS",23/07 •  13:00 Deportivo Riestra vs Argentinos Juniors
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354897.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 •  16:45 Newell's Old Boys vs Independiente Rivadavia" tvg-logo="https://castlempire.site:443/images/619ccf49bde023235745b596180688f1.png" group-title="⭐Latinos | EVENTOS",23/07 •  16:45 Newell's Old Boys vs Independiente Rivadavia
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354898.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 •  16:00 Patriotas Boyacá vs Fortaleza CEIF" tvg-logo="https://castlempire.site:443/images/ff1df0a64bcd317941265a61ab4991bf.png" group-title="⭐Latinos | EVENTOS",23/07 •  16:00 Patriotas Boyacá vs Fortaleza CEIF
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354899.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 • 18:10 La Equidad vs Jaguares de Córdoba" tvg-logo="https://castlempire.site:443/images/ff1df0a64bcd317941265a61ab4991bf.png" group-title="⭐Latinos | EVENTOS",23/07 • 18:10 La Equidad vs Jaguares de Córdoba
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354900.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 • 16:45 Gimnasia La Plata vs San Lorenzo" tvg-logo="https://castlempire.site:443/images/619ccf49bde023235745b596180688f1.png" group-title="⭐Latinos | EVENTOS",23/07 • 16:45 Gimnasia La Plata vs San Lorenzo
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354901.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 •  20:20 Deportes Tolima vs Deportivo Pasto" tvg-logo="https://castlempire.site:443/images/ff1df0a64bcd317941265a61ab4991bf.png" group-title="⭐Latinos | EVENTOS",23/07 •  20:20 Deportes Tolima vs Deportivo Pasto
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354902.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 20:00 CDMX. LMB. Leones @ El Aguila" tvg-logo="https://castlempire.site:443/images/e450c8ecbc7be1f895c0cbba2854beb6.png" group-title="⭐Cartelera HOY",23/07 20:00 CDMX. LMB. Leones @ El Aguila
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354903.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 20:00 CDMX. LMB. Algodoneros @ Charros" tvg-logo="https://castlempire.site:443/images/e450c8ecbc7be1f895c0cbba2854beb6.png" group-title="⭐Cartelera HOY",23/07 20:00 CDMX. LMB. Algodoneros @ Charros
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354904.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 19:45 CDMX. LMB. Dorados @ Acereros" tvg-logo="https://castlempire.site:443/images/e450c8ecbc7be1f895c0cbba2854beb6.png" group-title="⭐Cartelera HOY",23/07 19:45 CDMX. LMB. Dorados @ Acereros
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354905.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 19:30 CDMX. LMB. Rieleros @ Saraperos" tvg-logo="https://castlempire.site:443/images/e450c8ecbc7be1f895c0cbba2854beb6.png" group-title="⭐Cartelera HOY",23/07 19:30 CDMX. LMB. Rieleros @ Saraperos
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354906.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 19:30 CDMX. LMB. Tigres @ Piratas" tvg-logo="https://castlempire.site:443/images/e450c8ecbc7be1f895c0cbba2854beb6.png" group-title="⭐Cartelera HOY",23/07 19:30 CDMX. LMB. Tigres @ Piratas
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354907.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 19:30 CDMX. LMB. Diablos Rojos @ Bravos" tvg-logo="https://castlempire.site:443/images/e450c8ecbc7be1f895c0cbba2854beb6.png" group-title="⭐Cartelera HOY",23/07 19:30 CDMX. LMB. Diablos Rojos @ Bravos
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354908.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 19:00 CDMX. LMB. Conspiradores @ Pericos" tvg-logo="https://castlempire.site:443/images/e450c8ecbc7be1f895c0cbba2854beb6.png" group-title="⭐Cartelera HOY",23/07 19:00 CDMX. LMB. Conspiradores @ Pericos
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354909.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 19:00 CDMX. LMB. Olmecas @ Guerreros" tvg-logo="https://castlempire.site:443/images/e450c8ecbc7be1f895c0cbba2854beb6.png" group-title="⭐Cartelera HOY",23/07 19:00 CDMX. LMB. Olmecas @ Guerreros
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354910.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 19:00 CDMX. LMB. Toros @ Tecolotes" tvg-logo="https://castlempire.site:443/images/e450c8ecbc7be1f895c0cbba2854beb6.png" group-title="⭐Cartelera HOY",23/07 19:00 CDMX. LMB. Toros @ Tecolotes
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354911.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 18:30 CDMX. LMB. Caliente @ Sultanes" tvg-logo="https://castlempire.site:443/images/e450c8ecbc7be1f895c0cbba2854beb6.png" group-title="⭐Cartelera HOY",23/07 18:30 CDMX. LMB. Caliente @ Sultanes
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354912.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 20:10 CDMX. MLB. Giants @ Dodgers" tvg-logo="https://castlempire.site:443/images/ba61f6e4f50b17ab1e4fbce9b11676a6.png" group-title="NBA-MLB-MLS-NHL OP2",23/07 20:10 CDMX. MLB. Giants @ Dodgers
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354913.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 19:40 CDMX. MLB. Angels @ Mariners" tvg-logo="https://castlempire.site:443/images/ba61f6e4f50b17ab1e4fbce9b11676a6.png" group-title="NBA-MLB-MLS-NHL OP2",23/07 19:40 CDMX. MLB. Angels @ Mariners
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354914.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 19:40 CDMX. MLB. Astros @ Athletics" tvg-logo="https://castlempire.site:443/images/ba61f6e4f50b17ab1e4fbce9b11676a6.png" group-title="NBA-MLB-MLS-NHL OP2",23/07 19:40 CDMX. MLB. Astros @ Athletics
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354915.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 18:40 CDMX. MLB. Red Sox @ Rockies" tvg-logo="https://castlempire.site:443/images/ba61f6e4f50b17ab1e4fbce9b11676a6.png" group-title="NBA-MLB-MLS-NHL OP2",23/07 18:40 CDMX. MLB. Red Sox @ Rockies
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354916.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 18:10 CDMX. MLB. D-backs @ Royals" tvg-logo="https://castlempire.site:443/images/ba61f6e4f50b17ab1e4fbce9b11676a6.png" group-title="NBA-MLB-MLS-NHL OP2",23/07 18:10 CDMX. MLB. D-backs @ Royals
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354917.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 18:05 CDMX. MLB. Brewers @ Cubs" tvg-logo="https://castlempire.site:443/images/ba61f6e4f50b17ab1e4fbce9b11676a6.png" group-title="NBA-MLB-MLS-NHL OP2",23/07 18:05 CDMX. MLB. Brewers @ Cubs
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354918.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 18:05 CDMX. MLB. White Sox @ Rangers" tvg-logo="https://castlempire.site:443/images/ba61f6e4f50b17ab1e4fbce9b11676a6.png" group-title="NBA-MLB-MLS-NHL OP2",23/07 18:05 CDMX. MLB. White Sox @ Rangers
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354919.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 17:40 CDMX. MLB. Phillies @ Twins" tvg-logo="https://castlempire.site:443/images/ba61f6e4f50b17ab1e4fbce9b11676a6.png" group-title="NBA-MLB-MLS-NHL OP2",23/07 17:40 CDMX. MLB. Phillies @ Twins
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354920.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 17:20 CDMX. MLB. Reds @ Braves" tvg-logo="https://castlempire.site:443/images/ba61f6e4f50b17ab1e4fbce9b11676a6.png" group-title="NBA-MLB-MLS-NHL OP2",23/07 17:20 CDMX. MLB. Reds @ Braves
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354921.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 17:07 CDMX. MLB. Rays @ Blue Jays" tvg-logo="https://castlempire.site:443/images/ba61f6e4f50b17ab1e4fbce9b11676a6.png" group-title="NBA-MLB-MLS-NHL OP2",23/07 17:07 CDMX. MLB. Rays @ Blue Jays
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354922.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 17:05 CDMX. MLB. Mets @ Yankees" tvg-logo="https://castlempire.site:443/images/ba61f6e4f50b17ab1e4fbce9b11676a6.png" group-title="NBA-MLB-MLS-NHL OP2",23/07 17:05 CDMX. MLB. Mets @ Yankees
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354923.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 16:45 CDMX. MLB. Padres @ Nationals" tvg-logo="https://castlempire.site:443/images/ba61f6e4f50b17ab1e4fbce9b11676a6.png" group-title="NBA-MLB-MLS-NHL OP2",23/07 16:45 CDMX. MLB. Padres @ Nationals
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354924.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 16:40 CDMX. MLB. Orioles @ Marlins" tvg-logo="https://castlempire.site:443/images/ba61f6e4f50b17ab1e4fbce9b11676a6.png" group-title="NBA-MLB-MLS-NHL OP2",23/07 16:40 CDMX. MLB. Orioles @ Marlins
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354925.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 16:40 CDMX. MLB. Cardinals @ Pirates" tvg-logo="https://castlempire.site:443/images/ba61f6e4f50b17ab1e4fbce9b11676a6.png" group-title="NBA-MLB-MLS-NHL OP2",23/07 16:40 CDMX. MLB. Cardinals @ Pirates
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354926.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 16:40 CDMX. MLB. Tigers @ Guardians" tvg-logo="https://castlempire.site:443/images/ba61f6e4f50b17ab1e4fbce9b11676a6.png" group-title="NBA-MLB-MLS-NHL OP2",23/07 16:40 CDMX. MLB. Tigers @ Guardians
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354927.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 19:00 CDMX. LIGA MX FEMENIL. Rayadas vs Atlas" tvg-logo="https://castlempire.site:443/images/245c575eeb4655dc5d00f37abe3bb882.png" group-title="⭐Cartelera HOY",23/07 19:00 CDMX. LIGA MX FEMENIL. Rayadas vs Atlas
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354928.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 18:30 CDMX. CONMEBOL SUDAMERICANA. Internacional vs Rosario Central" tvg-logo="https://castlempire.site:443/images/52b58c544bc535e03599b7ced3a125ff.png" group-title="⭐Cartelera HOY",23/07 18:30 CDMX. CONMEBOL SUDAMERICANA. Internacional vs Rosario Central
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354929.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 16:00 CDMX. CONMEBOL SUDAMERICANA. Racing vs Huachipato" tvg-logo="https://castlempire.site:443/images/52b58c544bc535e03599b7ced3a125ff.png" group-title="⭐Cartelera HOY",23/07 16:00 CDMX. CONMEBOL SUDAMERICANA. Racing vs Huachipato
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354930.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 19:20 CDMX. PRIMERA A. Deportes Tolima vs Deportivo Pasto" tvg-logo="https://castlempire.site:443/images/22a0d3379090a5f8fb57542d22f072c4.png" group-title="⭐Cartelera HOY",23/07 19:20 CDMX. PRIMERA A. Deportes Tolima vs Deportivo Pasto
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354931.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 17:10 CDMX. PRIMERA A. La Equidad vs Jaguares de Córdoba" tvg-logo="https://castlempire.site:443/images/22a0d3379090a5f8fb57542d22f072c4.png" group-title="⭐Cartelera HOY",23/07 17:10 CDMX. PRIMERA A. La Equidad vs Jaguares de Córdoba
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354932.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 15:00 CDMX. PRIMERA A. Patriotas Boyacá vs Fortaleza CEIF" tvg-logo="https://castlempire.site:443/images/22a0d3379090a5f8fb57542d22f072c4.png" group-title="⭐Cartelera HOY",23/07 15:00 CDMX. PRIMERA A. Patriotas Boyacá vs Fortaleza CEIF
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354933.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 18:00 CDMX. SUPERLIGA ARGENTINA. Independiente vs Barracas Central" tvg-logo="https://castlempire.site:443/images/295fa70e7508b9316c44b02fb171100f.png" group-title="⭐Cartelera HOY",23/07 18:00 CDMX. SUPERLIGA ARGENTINA. Independiente vs Barracas Central
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354934.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 15:45 CDMX. SUPERLIGA ARGENTINA. Newell's Old Boys vs Independiente Rivadavia" tvg-logo="https://castlempire.site:443/images/295fa70e7508b9316c44b02fb171100f.png" group-title="⭐Cartelera HOY",23/07 15:45 CDMX. SUPERLIGA ARGENTINA. Newell's Old Boys vs Independiente Rivadavia
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354935.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 15:45 CDMX. SUPERLIGA ARGENTINA. Gimnasia La Plata vs San Lorenzo" tvg-logo="https://castlempire.site:443/images/295fa70e7508b9316c44b02fb171100f.png" group-title="⭐Cartelera HOY",23/07 15:45 CDMX. SUPERLIGA ARGENTINA. Gimnasia La Plata vs San Lorenzo
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354936.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 12:00 CDMX. SUPERLIGA ARGENTINA. Deportivo Riestra vs Argentinos Juniors" tvg-logo="https://castlempire.site:443/images/295fa70e7508b9316c44b02fb171100f.png" group-title="⭐Cartelera HOY",23/07 12:00 CDMX. SUPERLIGA ARGENTINA. Deportivo Riestra vs Argentinos Juniors
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354937.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 17:30 CDMX. AMISTOSO. Manchester City vs Celtic" tvg-logo="https://castlempire.site:443/images/9d412a5171dedbb70f0d9dc22ce94cdf.png" group-title="⭐Cartelera HOY",23/07 17:30 CDMX. AMISTOSO. Manchester City vs Celtic
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354938.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 13:30 CDMX. AMISTOSO. Sporting CP vs Sevilla" tvg-logo="https://castlempire.site:443/images/9d412a5171dedbb70f0d9dc22ce94cdf.png" group-title="⭐Cartelera HOY",23/07 13:30 CDMX. AMISTOSO. Sporting CP vs Sevilla
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354939.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 11:00 CDMX. AMISTOSO. Sturm Graz vs Porto" tvg-logo="https://castlempire.site:443/images/9d412a5171dedbb70f0d9dc22ce94cdf.png" group-title="⭐Cartelera HOY",23/07 11:00 CDMX. AMISTOSO. Sturm Graz vs Porto
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354940.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 20:00 CDMX. CONCACAF SUB-20. El Salvador vs Honduras" tvg-logo="https://castlempire.site:443/images/1a2eac34ab6f878407d6978c95e07eb0.png" group-title="⭐Cartelera HOY",23/07 20:00 CDMX. CONCACAF SUB-20. El Salvador vs Honduras
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354941.ts
-#EXTINF:-1 tvg-id="" tvg-name="23/07 17:00 CDMX. CONCACAF SUB-20. Canadá vs República Dominicana" tvg-logo="https://castlempire.site:443/images/1a2eac34ab6f878407d6978c95e07eb0.png" group-title="⭐Cartelera HOY",23/07 17:00 CDMX. CONCACAF SUB-20. Canadá vs República Dominicana
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354942.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBC SPORTS NETWORK" tvg-logo="https://castlempire.site:443/images/82ff150a450ebb28604b615cbb9c02d8.png" group-title="⭐Juegos Olimpicos",USA | NBC SPORTS NETWORK
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354997.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA SD | NBC NY" tvg-logo="https://castlempire.site:443/images/e444a9feb7a4934872f26a83e3097fec.jpg" group-title="⭐Juegos Olimpicos",USA SD | NBC NY
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354998.ts
+#EXTINF:-1 tvg-id="NBCSPO" tvg-name="USA SD | NBC Sport" tvg-logo="https://castlempire.site:443/images/8460194388c69bb8c876f8b344ec6c93.jpg" group-title="⭐Juegos Olimpicos",USA SD | NBC Sport
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354999.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA Latino | Telemundo New York HD" tvg-logo="https://castlempire.site:443/images/29755394061ec76998415d822861bc63.png" group-title="⭐Juegos Olimpicos",USA Latino | Telemundo New York HD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355000.ts
+#EXTINF:-1 tvg-id="WSCV" tvg-name="USA Latino | Telemundo Miami HD" tvg-logo="https://castlempire.site:443/images/5c32d40bfef5f1d50025b070d60546aa.png" group-title="⭐Juegos Olimpicos",USA Latino | Telemundo Miami HD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355001.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | CLARO SPORTS MX HD" tvg-logo="https://castlempire.site:443/images/65ade6d2cf5f0b66b1824b0d4b9f9321.png" group-title="⭐Juegos Olimpicos",DEPORTES HD | CLARO SPORTS MX HD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355002.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT SD | NBC Universo" tvg-logo="https://castlempire.site:443/images/a1c9a2f2a7535dce54b4c1be7323ffe8.jpg" group-title="⭐Juegos Olimpicos",LAT SD | NBC Universo
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355003.ts
+#EXTINF:-1 tvg-id="" tvg-name="JUEGOS OLIMPICOS 01" tvg-logo="https://castlempire.site:443/images/141e2cf94b290e392e1d0fa40e693354.png" group-title="⭐Juegos Olimpicos",JUEGOS OLIMPICOS 01
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355004.ts
+#EXTINF:-1 tvg-id="" tvg-name="JUEGOS OLIMPICOS 02" tvg-logo="https://castlempire.site:443/images/141e2cf94b290e392e1d0fa40e693354.png" group-title="⭐Juegos Olimpicos",JUEGOS OLIMPICOS 02
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355005.ts
+#EXTINF:-1 tvg-id="" tvg-name="JUEGOS OLIMPICOS 03" tvg-logo="https://castlempire.site:443/images/141e2cf94b290e392e1d0fa40e693354.png" group-title="⭐Juegos Olimpicos",JUEGOS OLIMPICOS 03
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355006.ts
+#EXTINF:-1 tvg-id="" tvg-name="JUEGOS OLIMPICOS 04" tvg-logo="https://castlempire.site:443/images/141e2cf94b290e392e1d0fa40e693354.png" group-title="⭐Juegos Olimpicos",JUEGOS OLIMPICOS 04
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355007.ts
+#EXTINF:-1 tvg-id="" tvg-name="JUEGOS OLIMPICOS 05" tvg-logo="https://castlempire.site:443/images/141e2cf94b290e392e1d0fa40e693354.png" group-title="⭐Juegos Olimpicos",JUEGOS OLIMPICOS 05
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355008.ts
+#EXTINF:-1 tvg-id="" tvg-name="JUEGOS OLIMPICOS 06" tvg-logo="https://castlempire.site:443/images/141e2cf94b290e392e1d0fa40e693354.png" group-title="⭐Juegos Olimpicos",JUEGOS OLIMPICOS 06
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355009.ts
+#EXTINF:-1 tvg-id="" tvg-name="JUEGOS OLIMPICOS 07" tvg-logo="https://castlempire.site:443/images/141e2cf94b290e392e1d0fa40e693354.png" group-title="⭐Juegos Olimpicos",JUEGOS OLIMPICOS 07
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355010.ts
+#EXTINF:-1 tvg-id="" tvg-name="JUEGOS OLIMPICOS 08" tvg-logo="https://castlempire.site:443/images/141e2cf94b290e392e1d0fa40e693354.png" group-title="⭐Juegos Olimpicos",JUEGOS OLIMPICOS 08
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355011.ts
+#EXTINF:-1 tvg-id="" tvg-name="JUEGOS OLIMPICOS 09" tvg-logo="https://castlempire.site:443/images/141e2cf94b290e392e1d0fa40e693354.png" group-title="⭐Juegos Olimpicos",JUEGOS OLIMPICOS 09
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355012.ts
+#EXTINF:-1 tvg-id="" tvg-name="JUEGOS OLIMPICOS 10" tvg-logo="https://castlempire.site:443/images/141e2cf94b290e392e1d0fa40e693354.png" group-title="⭐Juegos Olimpicos",JUEGOS OLIMPICOS 10
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355013.ts
+#EXTINF:-1 tvg-id="" tvg-name="JUEGOS OLIMPICOS 11" tvg-logo="https://castlempire.site:443/images/141e2cf94b290e392e1d0fa40e693354.png" group-title="⭐Juegos Olimpicos",JUEGOS OLIMPICOS 11
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355014.ts
+#EXTINF:-1 tvg-id="" tvg-name="JUEGOS OLIMPICOS 12" tvg-logo="https://castlempire.site:443/images/141e2cf94b290e392e1d0fa40e693354.png" group-title="⭐Juegos Olimpicos",JUEGOS OLIMPICOS 12
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355015.ts
+#EXTINF:-1 tvg-id="" tvg-name="JUEGOS OLIMPICOS 13" tvg-logo="https://castlempire.site:443/images/141e2cf94b290e392e1d0fa40e693354.png" group-title="⭐Juegos Olimpicos",JUEGOS OLIMPICOS 13
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355016.ts
+#EXTINF:-1 tvg-id="" tvg-name="JUEGOS OLIMPICOS 14" tvg-logo="https://castlempire.site:443/images/141e2cf94b290e392e1d0fa40e693354.png" group-title="⭐Juegos Olimpicos",JUEGOS OLIMPICOS 14
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355017.ts
+#EXTINF:-1 tvg-id="" tvg-name="JUEGOS OLIMPICOS 15" tvg-logo="https://castlempire.site:443/images/141e2cf94b290e392e1d0fa40e693354.png" group-title="⭐Juegos Olimpicos",JUEGOS OLIMPICOS 15
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355018.ts
+#EXTINF:-1 tvg-id="" tvg-name="JUEGOS OLIMPICOS 16" tvg-logo="https://castlempire.site:443/images/141e2cf94b290e392e1d0fa40e693354.png" group-title="⭐Juegos Olimpicos",JUEGOS OLIMPICOS 16
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355019.ts
+#EXTINF:-1 tvg-id="" tvg-name="JUEGOS OLIMPICOS 17" tvg-logo="https://castlempire.site:443/images/141e2cf94b290e392e1d0fa40e693354.png" group-title="⭐Juegos Olimpicos",JUEGOS OLIMPICOS 17
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355020.ts
+#EXTINF:-1 tvg-id="" tvg-name="JUEGOS OLIMPICOS 18" tvg-logo="https://castlempire.site:443/images/141e2cf94b290e392e1d0fa40e693354.png" group-title="⭐Juegos Olimpicos",JUEGOS OLIMPICOS 18
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355021.ts
+#EXTINF:-1 tvg-id="" tvg-name="JUEGOS OLIMPICOS 19" tvg-logo="https://castlempire.site:443/images/141e2cf94b290e392e1d0fa40e693354.png" group-title="⭐Juegos Olimpicos",JUEGOS OLIMPICOS 19
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355022.ts
+#EXTINF:-1 tvg-id="" tvg-name="JUEGOS OLIMPICOS 20" tvg-logo="https://castlempire.site:443/images/141e2cf94b290e392e1d0fa40e693354.png" group-title="⭐Juegos Olimpicos",JUEGOS OLIMPICOS 20
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355023.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBC SPORTS NETWORK - JUEGOS OLIMPICOS" tvg-logo="https://castlempire.site:443/images/82ff150a450ebb28604b615cbb9c02d8.png" group-title="⭐Juegos Olimpicos",USA | NBC SPORTS NETWORK - JUEGOS OLIMPICOS
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355024.ts
 #EXTINF:-1 tvg-id="" tvg-name="USA Real NBA 01: LAC Clippers VS MEM Grizzlies ( ESPN Feed ) @ 2:00 PM" tvg-logo="https://castlempire.site:443/images/5d1405b14a52413c80b1f114482c1625.png" group-title="NBA (Solo EVENTOS)",USA Real NBA 01: LAC Clippers VS MEM Grizzlies ( ESPN Feed ) @ 2:00 PM
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354946.ts
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355115.ts
 #EXTINF:-1 tvg-id="" tvg-name="USA Real NBA 02: ORL Magic VS MIN Timberwolves ( NBA TV Feed ) @ 3:00 PM" tvg-logo="https://castlempire.site:443/images/5d1405b14a52413c80b1f114482c1625.png" group-title="NBA (Solo EVENTOS)",USA Real NBA 02: ORL Magic VS MIN Timberwolves ( NBA TV Feed ) @ 3:00 PM
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354947.ts
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355116.ts
 #EXTINF:-1 tvg-id="" tvg-name="USA Real NBA 03: GSW Warriors VS MIA Heat ( ESPN Feed ) @ 4:00 PM" tvg-logo="https://castlempire.site:443/images/5d1405b14a52413c80b1f114482c1625.png" group-title="NBA (Solo EVENTOS)",USA Real NBA 03: GSW Warriors VS MIA Heat ( ESPN Feed ) @ 4:00 PM
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354948.ts
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355117.ts
 #EXTINF:-1 tvg-id="" tvg-name="USA Real NBA 04: PHI 76ers VS BOS Celtics ( NBA TV Feed ) @ 5:00 PM" tvg-logo="https://castlempire.site:443/images/5d1405b14a52413c80b1f114482c1625.png" group-title="NBA (Solo EVENTOS)",USA Real NBA 04: PHI 76ers VS BOS Celtics ( NBA TV Feed ) @ 5:00 PM
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354949.ts
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355118.ts
 #EXTINF:-1 tvg-id="" tvg-name="USA Real NBA 05: TOR Raptors VS SAS Spurs ( NBA TV Feed ) @ 7:00 PM" tvg-logo="https://castlempire.site:443/images/5d1405b14a52413c80b1f114482c1625.png" group-title="NBA (Solo EVENTOS)",USA Real NBA 05: TOR Raptors VS SAS Spurs ( NBA TV Feed ) @ 7:00 PM
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354950.ts
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355119.ts
 #EXTINF:-1 tvg-id="" tvg-name="USA Real NBA 06: HOU Rockets VS POR Trail Blazers ( NBA TV Feed ) @ 9:00 PM" tvg-logo="https://castlempire.site:443/images/5d1405b14a52413c80b1f114482c1625.png" group-title="NBA (Solo EVENTOS)",USA Real NBA 06: HOU Rockets VS POR Trail Blazers ( NBA TV Feed ) @ 9:00 PM
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354951.ts
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355120.ts
 #EXTINF:-1 tvg-id="" tvg-name="USA Real NBA 07: Charlotte Hornets vs Brooklyn Nets @ 06:30 PM" tvg-logo="https://castlempire.site:443/images/5d1405b14a52413c80b1f114482c1625.png" group-title="NBA (Solo EVENTOS)",USA Real NBA 07: Charlotte Hornets vs Brooklyn Nets @ 06:30 PM
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354952.ts
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355121.ts
 #EXTINF:-1 tvg-id="" tvg-name="USA Real NBA 08: Detroit Pistons vs Utah Jazz @ 08:30 PM" tvg-logo="https://castlempire.site:443/images/5d1405b14a52413c80b1f114482c1625.png" group-title="NBA (Solo EVENTOS)",USA Real NBA 08: Detroit Pistons vs Utah Jazz @ 08:30 PM
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354953.ts
-#EXTINF:-1 tvg-id="" tvg-name="MLB 01: Miami Marlins VS Baltimore Orioles (23-07 6:40PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 01: Miami Marlins VS Baltimore Orioles (23-07 6:40PM ET)
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354954.ts
-#EXTINF:-1 tvg-id="" tvg-name="MLB 02: Cleveland Guardians VS Detroit Tigers (23-07 6:40PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 02: Cleveland Guardians VS Detroit Tigers (23-07 6:40PM ET)
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354955.ts
-#EXTINF:-1 tvg-id="" tvg-name="MLB 03: Pittsburgh Pirates VS St. Louis Cardinals (23-07 6:40PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 03: Pittsburgh Pirates VS St. Louis Cardinals (23-07 6:40PM ET)
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354956.ts
-#EXTINF:-1 tvg-id="" tvg-name="MLB 04: Washington Nationals VS San Diego Padres (23-07 6:45PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 04: Washington Nationals VS San Diego Padres (23-07 6:45PM ET)
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354957.ts
-#EXTINF:-1 tvg-id="" tvg-name="MLB 05: New York Yankees VS New York Mets (23-07 7:05PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 05: New York Yankees VS New York Mets (23-07 7:05PM ET)
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354958.ts
-#EXTINF:-1 tvg-id="" tvg-name="MLB 06: Toronto Blue Jays VS Tampa Bay Rays (23-07 7:07PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 06: Toronto Blue Jays VS Tampa Bay Rays (23-07 7:07PM ET)
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354959.ts
-#EXTINF:-1 tvg-id="" tvg-name="MLB 07: Atlanta Braves VS Cincinnati Reds (23-07 7:20PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 07: Atlanta Braves VS Cincinnati Reds (23-07 7:20PM ET)
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354960.ts
-#EXTINF:-1 tvg-id="" tvg-name="MLB 08: Minnesota Twins VS Philadelphia Phillies (23-07 7:40PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 08: Minnesota Twins VS Philadelphia Phillies (23-07 7:40PM ET)
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354961.ts
-#EXTINF:-1 tvg-id="" tvg-name="MLB 09: Texas Rangers VS Chicago White Sox (23-07 8:05PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 09: Texas Rangers VS Chicago White Sox (23-07 8:05PM ET)
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354962.ts
-#EXTINF:-1 tvg-id="" tvg-name="MLB 10: Chicago Cubs VS Milwaukee Brewers (23-07 8:05PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 10: Chicago Cubs VS Milwaukee Brewers (23-07 8:05PM ET)
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354963.ts
-#EXTINF:-1 tvg-id="" tvg-name="MLB 11: Kansas City Royals VS Arizona Diamondbacks (23-07 8:10PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 11: Kansas City Royals VS Arizona Diamondbacks (23-07 8:10PM ET)
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354964.ts
-#EXTINF:-1 tvg-id="" tvg-name="MLB 12: Colorado Rockies VS Boston Red Sox (23-07 8:40PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 12: Colorado Rockies VS Boston Red Sox (23-07 8:40PM ET)
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354965.ts
-#EXTINF:-1 tvg-id="" tvg-name="MLB 13: Seattle Mariners VS Los Angeles Angels (23-07 9:40PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 13: Seattle Mariners VS Los Angeles Angels (23-07 9:40PM ET)
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354966.ts
-#EXTINF:-1 tvg-id="" tvg-name="MLB 14: Oakland Athletics VS Houston Astros (23-07 9:40PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 14: Oakland Athletics VS Houston Astros (23-07 9:40PM ET)
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354967.ts
-#EXTINF:-1 tvg-id="" tvg-name="MLB 15: Los Angeles Dodgers VS San Francisco Giants (23-07 10:10PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 15: Los Angeles Dodgers VS San Francisco Giants (23-07 10:10PM ET)
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/354968.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355122.ts
+#EXTINF:-1 tvg-id="" tvg-name="MLB 01: Philadelphia Phillies VS Cleveland Guardians (26-07 6:40PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 01: Philadelphia Phillies VS Cleveland Guardians (26-07 6:40PM ET)
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355123.ts
+#EXTINF:-1 tvg-id="" tvg-name="MLB 02: Detroit Tigers VS Minnesota Twins (26-07 6:40PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 02: Detroit Tigers VS Minnesota Twins (26-07 6:40PM ET)
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355124.ts
+#EXTINF:-1 tvg-id="" tvg-name="MLB 03: Tampa Bay Rays VS Cincinnati Reds (26-07 6:50PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 03: Tampa Bay Rays VS Cincinnati Reds (26-07 6:50PM ET)
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355125.ts
+#EXTINF:-1 tvg-id="" tvg-name="MLB 04: Baltimore Orioles VS San Diego Padres (26-07 7:05PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 04: Baltimore Orioles VS San Diego Padres (26-07 7:05PM ET)
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355126.ts
+#EXTINF:-1 tvg-id="" tvg-name="MLB 05: Toronto Blue Jays VS Texas Rangers (26-07 7:07PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 05: Toronto Blue Jays VS Texas Rangers (26-07 7:07PM ET)
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355127.ts
+#EXTINF:-1 tvg-id="" tvg-name="MLB 06: New York Mets VS Atlanta Braves (26-07 7:10PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 06: New York Mets VS Atlanta Braves (26-07 7:10PM ET)
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355128.ts
+#EXTINF:-1 tvg-id="" tvg-name="MLB 07: Boston Red Sox VS New York Yankees (26-07 7:10PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 07: Boston Red Sox VS New York Yankees (26-07 7:10PM ET)
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355129.ts
+#EXTINF:-1 tvg-id="" tvg-name="MLB 08: Kansas City Royals VS Chicago Cubs (26-07 8:10PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 08: Kansas City Royals VS Chicago Cubs (26-07 8:10PM ET)
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355130.ts
+#EXTINF:-1 tvg-id="" tvg-name="MLB 09: Houston Astros VS Los Angeles Dodgers (26-07 8:10PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 09: Houston Astros VS Los Angeles Dodgers (26-07 8:10PM ET)
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355131.ts
+#EXTINF:-1 tvg-id="" tvg-name="MLB 10: Milwaukee Brewers VS Miami Marlins (26-07 8:10PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 10: Milwaukee Brewers VS Miami Marlins (26-07 8:10PM ET)
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355132.ts
+#EXTINF:-1 tvg-id="" tvg-name="MLB 11: Chicago White Sox VS Seattle Mariners (26-07 8:10PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 11: Chicago White Sox VS Seattle Mariners (26-07 8:10PM ET)
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355133.ts
+#EXTINF:-1 tvg-id="" tvg-name="MLB 12: St. Louis Cardinals VS Washington Nationals (26-07 8:15PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 12: St. Louis Cardinals VS Washington Nationals (26-07 8:15PM ET)
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355134.ts
+#EXTINF:-1 tvg-id="" tvg-name="MLB 13: Los Angeles Angels VS Oakland Athletics (26-07 9:38PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 13: Los Angeles Angels VS Oakland Athletics (26-07 9:38PM ET)
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355135.ts
+#EXTINF:-1 tvg-id="" tvg-name="MLB 14: Arizona Diamondbacks VS Pittsburgh Pirates (26-07 9:40PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 14: Arizona Diamondbacks VS Pittsburgh Pirates (26-07 9:40PM ET)
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355136.ts
+#EXTINF:-1 tvg-id="" tvg-name="MLB 15: San Francisco Giants VS Colorado Rockies (26-07 10:15PM ET)" tvg-logo="https://castlempire.site:443/images/d0da35238ec953acfd6de58bcd29d55e.png" group-title="MLB (Solo EVENTOS)",MLB 15: San Francisco Giants VS Colorado Rockies (26-07 10:15PM ET)
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355137.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV01: NCL 46: Thunderstruck 2 (fite tv) @ 06:00 PM" tvg-logo="" group-title="ヅPPV EVENTOS",USA PPV01: NCL 46: Thunderstruck 2 (fite tv) @ 06:00 PM
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355138.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV02: FAIRBURY SPEEDWAY (dirtvision) @ 06:15 PM" tvg-logo="" group-title="ヅPPV EVENTOS",USA PPV02: FAIRBURY SPEEDWAY (dirtvision) @ 06:15 PM
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355139.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV03: ATTICA RACEWAY PARK (dirtvision) @ 06:30 PM" tvg-logo="" group-title="ヅPPV EVENTOS",USA PPV03: ATTICA RACEWAY PARK (dirtvision) @ 06:30 PM
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355140.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV04: WILLIAMS GROVE SPEEDWAY (dirtvision) @ 06:45 PM" tvg-logo="" group-title="ヅPPV EVENTOS",USA PPV04: WILLIAMS GROVE SPEEDWAY (dirtvision) @ 06:45 PM
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355141.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV05: House of Glory: High Intensity 2024 (fite tv) @ 07:00 PM" tvg-logo="" group-title="ヅPPV EVENTOS",USA PPV05: House of Glory: High Intensity 2024 (fite tv) @ 07:00 PM
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355142.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV06: DIRT ZONE (dirtvision) @ 07:30 PM" tvg-logo="" group-title="ヅPPV EVENTOS",USA PPV06: DIRT ZONE (dirtvision) @ 07:30 PM
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355143.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV07: K-Town Klash/RacinDirt Thunder Summer Series Mississippi Thunder 7/26/24 (racindirt) @ 08:00 PM" tvg-logo="" group-title="ヅPPV EVENTOS",USA PPV07: K-Town Klash/RacinDirt Thunder Summer Series Mississippi Thunder 7/26/24 (racindirt) @ 08:00 PM
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355144.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV08: Xtreme Knockout Fight Night 68: Summer Bash (fite tv) @ 08:00 PM" tvg-logo="" group-title="ヅPPV EVENTOS",USA PPV08: Xtreme Knockout Fight Night 68: Summer Bash (fite tv) @ 08:00 PM
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355145.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV09: ARROWHEAD SPEEDWAY (dirtvision) @ 08:15 PM" tvg-logo="" group-title="ヅPPV EVENTOS",USA PPV09: ARROWHEAD SPEEDWAY (dirtvision) @ 08:15 PM
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355146.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV10: Black Label Pro: Old Habits Die Screaming (fite tv) @ 08:30 PM" tvg-logo="" group-title="ヅPPV EVENTOS",USA PPV10: Black Label Pro: Old Habits Die Screaming (fite tv) @ 08:30 PM
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355147.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV11: JACKSON MOTORPLEX (dirtvision) @ 08:30 PM" tvg-logo="" group-title="ヅPPV EVENTOS",USA PPV11: JACKSON MOTORPLEX (dirtvision) @ 08:30 PM
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355148.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV12: HMT Humboldt Speedway 7/26/24 (racindirt) @ 09:00 PM" tvg-logo="" group-title="ヅPPV EVENTOS",USA PPV12: HMT Humboldt Speedway 7/26/24 (racindirt) @ 09:00 PM
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355149.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV13: Santino Bros. Wrestling: The L.A. Rumble 2024 (fite tv) @ 10:00 PM" tvg-logo="" group-title="ヅPPV EVENTOS",USA PPV13: Santino Bros. Wrestling: The L.A. Rumble 2024 (fite tv) @ 10:00 PM
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/355150.ts
 
 
 
