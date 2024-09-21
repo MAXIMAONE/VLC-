@@ -1,16 +1,10 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="HBO MX" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png"
-http://200.59.188.3:8000/play/a03r
-#EXTINF:-1 tvg-id="HBO HD-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png"
-http://200.59.188.3:8000/play/a020
-#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://logowik.com/content/uploads/images/hbo.jpg"
-http://45.166.92.22:58001/play/a03s/index.m3u8
-#EXTINF:-1 tvg-id="HBO Xtreme USA" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png"
-http://200.59.188.3:8000/play/a035
-#EXTINF:-1 tvg-id="HBO 2 MX" tvg-logo="https://laguia.tv/_nuxt/img/HBO2_256.d920675.png"
-http://200.59.188.3:8000/play/a027
-#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png"
-http://200.59.188.3:8000/play/a034
-#EXTINF:-1 tvg-id="FOX PREMIUM" tvg-logo="https://i.ytimg.com/vi/Qd7r7yN31Sc/maxresdefault.jpg"
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jr78-TWIHkIoVRTAeq8QkvPz6fz3zlvdtFME8yi-bwWG/ts
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="" tvg-name="Q - EL PLAN PARA SALVAR EL MUNDO - Documental COMPLETO" tvg-logo="https://castlempire.site:443/images/ce195dd6978e72350d86eb52558ab300.jpg" group-title="⭐Cartelera HOY",Q - EL PLAN PARA SALVAR EL MUNDO - Documental COMPLETO
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/327836.ts
+#EXTINF:-1 tvg-id="" tvg-name="Q - EL PLAN PARA SALVAR EL MUNDO - Documental COMPLETO" tvg-logo="https://castlempire.site:443/images/ce195dd6978e72350d86eb52558ab300.jpg" group-title="ヅLIVE: President Donald Trump Rally",Q - EL PLAN PARA SALVAR EL MUNDO - Documental COMPLETO
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/327836.ts
+#EXTINF:-1 tvg-id="" tvg-name="Q - EL PLAN PARA SALVAR EL MUNDO - Documental COMPLETO" tvg-logo="https://castlempire.site:443/images/ce195dd6978e72350d86eb52558ab300.jpg" group-title="Chile",Q - EL PLAN PARA SALVAR EL MUNDO - Documental COMPLETO
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/327836.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA CAIDA DEL CABAL - DOCUMENTAL" tvg-logo="https://castlempire.site:443/images/cbbad7e2a5c53b7f2c469d86ba475d8f.jpg" group-title="⭐Cartelera HOY",LA CAIDA DEL CABAL - DOCUMENTAL
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/328049.ts
