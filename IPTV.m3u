@@ -6,3 +6,5 @@ http://200.59.188.3:8000/play/a020
 http://45.166.92.22:58001/play/a03s/index.m3u8
 #EXTINF:-1 tvg-id="HBO Xtreme USA" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png"
 http://45.166.92.22:58001/play/a03w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | CINEMAX (MX) HD" tvg-logo="https://castlempire.site:443/images/0c644cb9cea063d21971ce1ef20abd70.png" group-title="CINEMA HD",CINE HD | CINEMAX (MX) HD
+https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172786.ts
