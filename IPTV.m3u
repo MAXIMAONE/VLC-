@@ -1,9 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png"
+
+#EXTINF:-1 tvg-id="HBO MX" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png"
+http://200.59.188.3:8000/play/a03r
+#EXTINF:-1 tvg-id="HBO HD-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png"
 http://200.59.188.3:8000/play/a020
 #EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://logowik.com/content/uploads/images/hbo.jpg"
 http://45.166.92.22:58001/play/a03s/index.m3u8
 #EXTINF:-1 tvg-id="HBO Xtreme USA" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png"
-http://45.166.92.22:58001/play/a03w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | CINEMAX (MX) HD" tvg-logo="https://castlempire.site:443/images/0c644cb9cea063d21971ce1ef20abd70.png" group-title="CINEMA HD",CINE HD | CINEMAX (MX) HD
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/172786.ts
+http://200.59.188.3:8000/play/a035
+#EXTINF:-1 tvg-id="HBO 2 MX" tvg-logo="https://laguia.tv/_nuxt/img/HBO2_256.d920675.png"
+http://200.59.188.3:8000/play/a027
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png"
+http://200.59.188.3:8000/play/a034
+#EXTINF:-1 tvg-id="FOX PREMIUM" tvg-logo="https://i.ytimg.com/vi/Qd7r7yN31Sc/maxresdefault.jpg"
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jr78-TWIHkIoVRTAeq8QkvPz6fz3zlvdtFME8yi-bwWG/ts
