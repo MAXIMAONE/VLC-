@@ -1,30 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 1 (CHILE)(HD)" tvg-logo="https://castlempire.site:443/images/6a243ba77dd836a80d6dbf5224388186.png" group-title="⚽Deporte Latino",DIRECTV SPORTS 1 (CHILE)(HD)
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/176616.ts
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto" tvg-logo="http://castlempire.site:8080/images/46081f39de5f38ab873d1c2d1ab97185.png" group-title="24/7 - PRIME Familiares-Kids",(Des)encanto
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/186811.ts
-#EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:Discovery Channel" tvg-logo="" group-title="Argentina OP2",*ARG_HD:Discovery Channel
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/173914.ts
-#EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:Discovery Home & Health" tvg-logo="" group-title="Argentina OP2",*ARG_HD:Discovery Home & Health
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/173916.ts
-#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD: FOX SPORTS 2" tvg-logo="" group-title="Argentina OP2",*ARG_SD: FOX SPORTS 2
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/173862.ts
-#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD: FOX SPORTS 3" tvg-logo="" group-title="Argentina OP2",*ARG_SD: FOX SPORTS 3
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/173863.ts
-#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:CARTOON NETWORK" tvg-logo="" group-title="Argentina OP2",*ARG_SD:CARTOON NETWORK
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/173890.ts
-#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:CINEMAX" tvg-logo="" group-title="Argentina OP2",*ARG_SD:CINEMAX
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/173882.ts
-#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:I-SAT" tvg-logo="" group-title="Argentina OP2",*ARG_SD:I-SAT
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/173899.ts
-#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:LIFETIME" tvg-logo="" group-title="Argentina OP2",*ARG_SD:LIFETIME
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/173894.ts
-#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:TBS VERY FUNNY" tvg-logo="" group-title="Argentina OP2",*ARG_SD:TBS VERY FUNNY
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/173898.ts
-#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:TCM" tvg-logo="" group-title="Argentina OP2",*ARG_SD:TCM
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/173900.ts
-#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:TNT SERIES" tvg-logo="" group-title="Argentina OP2",*ARG_SD:TNT SERIES
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/173897.ts
-#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:TOONCAST" tvg-logo="" group-title="Argentina OP2",*ARG_SD:TOONCAST
-https://castlempire.site:443/23MAXIMOJLV4/nEaTENkjhu/173902.ts
+#EXTINF:-1 tvg-id="(Des)encanto" tvg-logo=""
+http://192.168.0.13:34400/stream/035386fbbd32c16b11889069dbbfdc24
+#EXTINF:-1 tvg-id="HD:Discovery Channel" tvg-logo=""
+http://192.168.0.13:34400/stream/1a34416cd98eac99073edc733a11efae
+#EXTINF:-1 tvg-id="fox 2" tvg-logo=""
+http://192.168.0.13:34400/stream/a9e278ae7ca6359c11136157b4ce0d7d
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo=""
+http://192.168.0.13:34400/stream/4dff4528d263937ec2e1aa4655ffb9ab
+#EXTINF:-1 tvg-id="SD:TCM" tvg-logo=""
+http://192.168.0.13:34400/stream/3ca1e39b9865fca96cbbcda8337f2d3f
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-logo=""
+http://192.168.0.13:34400/stream/c58b6ca08b2187d2b5c289d0b0701a2e
