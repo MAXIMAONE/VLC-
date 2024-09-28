@@ -1,82 +1,60 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="D| ESPN Extra 4" tvg-logo="https://i.ibb.co/7KGCnFV/d21fac40-d2d4-4d52-ad5f-4a1347135bfe.jpg" group-title="Deportes",D| ESPN Extra 4
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/1991
-#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="D| FOX Deportes" tvg-logo="https://www.logolynx.com/images/logolynx/a6/a6e8875d7685df7b35bc74a7755baead.jpeg" group-title="Deportes",D| FOX Deportes
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/1931
-#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="D| FOX Deportes  HD" tvg-logo="https://www.logolynx.com/images/logolynx/a6/a6e8875d7685df7b35bc74a7755baead.jpeg" group-title="Deportes",D| FOX Deportes  HD
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/1322
-#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="D| FOX Sports 1 ARG" tvg-logo="https://i.imgur.com/MrLBavf.png" group-title="Deportes",D| FOX Sports 1 ARG
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/1752
-#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="D| FOX Sports 1 ARG  HD" tvg-logo="https://i.imgur.com/MrLBavf.png" group-title="Deportes",D| FOX Sports 1 ARG  HD
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/1750
-#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="D| FOX Sports 1 CL" tvg-logo="https://i.imgur.com/SLrPvXC.png" group-title="Deportes",D| FOX Sports 1 CL
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/1062
-#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="D| FOX Sports 1 CL  HD" tvg-logo="https://i.imgur.com/SLrPvXC.png" group-title="Deportes",D| FOX Sports 1 CL  HD
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/1996
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| FOX Sports 1 MX" tvg-logo="https://i.imgur.com/SLrPvXC.png" group-title="Deportes",D| FOX Sports 1 MX
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/1753
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| FOX Sports 1 MX  HD" tvg-logo="https://i.imgur.com/SLrPvXC.png" group-title="Deportes",D| FOX Sports 1 MX  HD
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/1751
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| FOX Sports 1 MX FHD" tvg-logo="https://i.imgur.com/SLrPvXC.png" group-title="Deportes",D| FOX Sports 1 MX FHD
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/1749
-#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="D| FOX Sports 2 ARG" tvg-logo="https://i.imgur.com/KevgRf3.png" group-title="Deportes",D| FOX Sports 2 ARG
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/1744
-#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="D| FOX Sports 2 ARG  HD" tvg-logo="https://i.imgur.com/KevgRf3.png" group-title="Deportes",D| FOX Sports 2 ARG  HD
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/1742
-#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="D| FOX Sports 2 CL  HD" tvg-logo="https://i.ibb.co/87kLRhk/fox-2.png" group-title="Deportes",D| FOX Sports 2 CL  HD
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/1741
-#EXTINF:-1 tvg-id="foxsports2conosur.co" tvg-name="D| FOX Sports 2 COL" tvg-logo="https://i.ibb.co/87kLRhk/fox-2.png" group-title="Deportes",D| FOX Sports 2 COL
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/23
-#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="D| FOX Sports 2 MX" tvg-logo="https://i.ibb.co/87kLRhk/fox-2.png" group-title="Deportes",D| FOX Sports 2 MX
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/1745
-#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="D| FOX Sports 2 MX  HD" tvg-logo="https://i.ibb.co/87kLRhk/fox-2.png" group-title="Deportes",D| FOX Sports 2 MX  HD
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/1743
-#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="D| FOX Sports 2 Sur" tvg-logo="https://i.ibb.co/87kLRhk/fox-2.png" group-title="Deportes",D| FOX Sports 2 Sur
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/1118
-#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="D| FOX Sports 2 Sur  HD" tvg-logo="https://i.ibb.co/87kLRhk/fox-2.png" group-title="Deportes",D| FOX Sports 2 Sur  HD
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/1119
-#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="D| FOX Sports 3 ARG" tvg-logo="https://i.imgur.com/5GLa9XI.png" group-title="Deportes",D| FOX Sports 3 ARG
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/1748
-#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="D| FOX Sports 3 ARG  HD" tvg-logo="https://i.imgur.com/5GLa9XI.png" group-title="Deportes",D| FOX Sports 3 ARG  HD
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/1746
-#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="D| FOX Sports 3 MX" tvg-logo="https://i.imgur.com/SqkLrOK.png" group-title="Deportes",D| FOX Sports 3 MX
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/1658
-#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="D| FOX Sports 3 MX  HD" tvg-logo="https://i.imgur.com/SqkLrOK.png" group-title="Deportes",D| FOX Sports 3 MX  HD
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/1747
-#EXTINF:-1 tvg-id="gol.es" tvg-name="D| GOL" tvg-logo="https://i.imgur.com/Drw3kg5.png" group-title="Deportes",D| GOL
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/1655
-#EXTINF:-1 tvg-id="gol.es" tvg-name="D| GOL  HD" tvg-logo="https://i.imgur.com/Drw3kg5.png" group-title="Deportes",D| GOL  HD
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/1754
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="D| GOLF Channel NBC" tvg-logo="https://i.imgur.com/14Zu6mf.png" group-title="Deportes",D| GOLF Channel NBC
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/1755
-#EXTINF:-1 tvg-id="TOROS" tvg-name="D| Mundo Toro" tvg-logo="https://i.imgur.com/Nm3FFTT.png" group-title="Deportes",D| Mundo Toro
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/932
-#EXTINF:-1 tvg-id="TOROS" tvg-name="D| Mundo Toro FHD" tvg-logo="https://i.imgur.com/Nm3FFTT.png" group-title="Deportes",D| Mundo Toro FHD
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/931
-#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM" tvg-name="DP| FOX Sports Premium MX" tvg-logo="https://i.imgur.com/FI8osXa.png" group-title="Deportes Premium",DP| FOX Sports Premium MX
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/1323
-#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM" tvg-name="DP| FOX Sports Premium MX  HD" tvg-logo="https://i.imgur.com/FI8osXa.png" group-title="Deportes Premium",DP| FOX Sports Premium MX  HD
-http://legazytv.us:8880/JesusLedezma2/6eaeSp8Mzv/1483
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Clasicos de Disney" tvg-logo="https://imgur.com/bnW3TtE.png" 
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1950
+#EXTINF:-1 tvg-id="" tvg-name="Dinosaurios" tvg-logo="https://ih1.redbubble.net/image.3790899799.4176/st,large,507x507-pad,600x600,f8f8f8.jpg" 
+http://gzytv.vip:8880/654329/rjgAbmEB7c/537
+#EXTINF:-1 tvg-id="" tvg-name="Don Gato y Su Pandilla" tvg-logo="https://imgur.com/v9OY7Nv.png" 
+http://gzytv.vip:8880/654329/rjgAbmEB7c/2598
+#EXTINF:-1 tvg-id="" tvg-name="El Conde Pátula" tvg-logo="https://imgur.com/Wx9nUoO.png" 
+http://gzytv.vip:8880/654329/rjgAbmEB7c/2601
+#EXTINF:-1 tvg-id="" tvg-name="El inspector Ardilla" tvg-logo="https://i.imgur.com/ZfUlke6.png"
+http://gzytv.vip:8880/654329/rjgAbmEB7c/342
+#EXTINF:-1 tvg-id="" tvg-name="Lego Movies" tvg-logo="https://i.ibb.co/bJ5GJzk/lego.png" 
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1134
+#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos" tvg-logo="https://i.ibb.co/sQypNsV/Los-pitufos.png"
+http://gzytv.vip:8880/654329/rjgAbmEB7c/2614
+#EXTINF:-1 tvg-id="" tvg-name="Pixar Movies (op2)" tvg-logo="https://i.imgur.com/mh1guK3.png"
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1112
+#EXTINF:-1 tvg-id="" tvg-name="Spiderman (1997)" tvg-logo="https://i.imgur.com/epDuzge.png" 
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1114
+#EXTINF:-1 tvg-id="" tvg-name="El Chapo" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/2ClXk4PoOGmkk676y4q6T26GJOb.jpg" 
+http://gzytv.vip:8880/654329/rjgAbmEB7c/415
+#EXTINF:-1 tvg-id="" tvg-name="La Reina Del Sur" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/p11t8ckTC6EiuVw5FGFKdc2Z7GH.jpg" 
+http://gzytv.vip:8880/654329/rjgAbmEB7c/384
+#EXTINF:-1 tvg-id="" tvg-name="La rosa de Guadalupe" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fdKDNIGDKyWVn7m36s9bGkvM1ai.jpg" 
+http://gzytv.vip:8880/654329/rjgAbmEB7c/388
+#EXTINF:-1 tvg-id="" tvg-name="Maria la del barrio" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/xGMquh71mh3w3QzUrl1AhCniHys.jpg" 
+http://gzytv.vip:8880/654329/rjgAbmEB7c/406
+#EXTINF:-1 tvg-id="" tvg-name="Maria mercedes" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3sMyQjtS7H9Vxxo6vCMPoHz6vHD.jpg" 
+http://gzytv.vip:8880/654329/rjgAbmEB7c/391
+#EXTINF:-1 tvg-id="" tvg-name="Cantinflas" tvg-logo="https://i.ibb.co/nP812jH/cant.png" 
+http://gzytv.vip:8880/654329/rjgAbmEB7c/745
+#EXTINF:-1 tvg-id="" tvg-name="Cine Retro" tvg-logo="http://i.imgur.com/Ix7o1fG.png" group-title="
+http://gzytv.vip:8880/654329/rjgAbmEB7c/507
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Accion" tvg-logo="https://i.ibb.co/k4c5x0S/cinema-vector-illustration-png-242108.jpg" 
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1952
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Cine Animation" tvg-logo="https://i.ibb.co/SBTPVYF/40556.jpg" group-title="
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1331
+#EXTINF:-1 tvg-id="" tvg-name="Pedro Infante" tvg-logo="http://i.imgur.com/0Xfktas.png" group-title="
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1078100
+#EXTINF:-1 tvg-id="" tvg-name="Picardía Mexicana" tvg-logo="https://i.imgur.com/v6kIKp1.png" 
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1053
+#EXTINF:-1 tvg-id="" tvg-name="El Chapulin Colorado" tvg-logo="https://i.ibb.co/f9hh7kz/CH.png" 
+http://gzytv.vip:8880/654329/rjgAbmEB7c/747
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo del 8 (op2)" tvg-logo="https://i.ibb.co/MZL7RFD/chavo8.png" 
+http://gzytv.vip:8880/654329/rjgAbmEB7c/248
+#EXTINF:-1 tvg-id="" tvg-name="El señor de los cielos" tvg-logo="https://i.imgur.com/PCXseiL.png"
+http://gzytv.vip:8880/654329/rjgAbmEB7c/196
+#EXTINF:-1 tvg-id="" tvg-name="Los Años Maravillosos" tvg-logo="https://i.ibb.co/8MjWssB/twy.png" 
+http://gzytv.vip:8880/654329/rjgAbmEB7c/772
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="Discovery Turbo  HD" tvg-logo="https://i.imgur.com/VrfVdNW.png" 
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097960
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="Animal Planet" tvg-logo="https://i.imgur.com/YePSeYT.png"
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097878
+#EXTINF:-1 tvg-id="" tvg-name="C| Discovery Channel  HD" tvg-logo="https://i.imgur.com/8cARvFQ.png" 
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097953
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Familia  HD" tvg-logo="https://i.imgur.com/4S7pjQj.png" 
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1098236
+#EXTINF:-1 tvg-id="" tvg-name="C| Discovery Investigation  HD" tvg-logo="https://i.imgur.com/iwuxiq1.png"
+http://gzytv.vip:8880/654329/rjgAbmEB7c/1097957
