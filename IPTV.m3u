@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="REDBULL" tvg-logo="https://pbs.twimg.com/card_img/1840011503992492032/QnoUSI3b?format=png&name=360x360"
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Clasicos de Disney" tvg-logo="https://imgur.com/bnW3TtE.png" 
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1950
 #EXTINF:-1 tvg-id="" tvg-name="Dinosaurios" tvg-logo="https://ih1.redbubble.net/image.3790899799.4176/st,large,507x507-pad,600x600,f8f8f8.jpg" 
