@@ -1,1 +1,21 @@
-DFGHJ
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Enlace BPB | CL" tvg-logo="http://castlempire.site:8080/images/cf1abdbdb1b8b2bb319e6095c10e8b9f.png" group-title="Chile Geo",Enlace BPB | CL
+https://castlempire.site:443/Demosmart2/NJnEMvrha2/276280.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANADA | H2 HD" tvg-logo="https://castlempire.site:443/images/3e2c4209a015ead5ce27a193fa48e64b.png" group-title="Canada Op2",CANADA | H2 HD
+https://castlempire.site:443/Demosmart2/NJnEMvrha2/277895.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANADA | History Channel HD" tvg-logo="https://castlempire.site:443/images/0d1fc522ae8ec496fd7e02d77d94fc24.jpg" group-title="Canada Op2",CANADA | History Channel HD
+https://castlempire.site:443/Demosmart2/NJnEMvrha2/277896.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANADA | National Geographic HD" tvg-logo="https://castlempire.site:443/images/0ef0b0fe7a0872f646fc6b01f4495700.png" group-title="Canada Op2",CANADA | National Geographic HD
+https://castlempire.site:443/Demosmart2/NJnEMvrha2/277897.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANADA | Discovery Channel HD" tvg-logo="https://castlempire.site:443/images/ced93df77bc216a7ea694671e92dc01d.jpg" group-title="Canada Op2",CANADA | Discovery Channel HD
+#EXTINF:-1 tvg-name="Malcolm S05E03" tvg-logo="http://castlempire.site:8080/images/21c1b2e387825032de1e6b17b5193f4d.jpg" group-title="S | Comedia",Malcolm S05E03
+https://castlempire.site:443/series/Demosmart2/NJnEMvrha2/138944.mp4
+#EXTINF:-1 tvg-name="Malcolm S05E04" tvg-logo="http://castlempire.site:8080/images/167d2aac1f65a4893822a7dfdac52817.jpg" group-title="S | Comedia",Malcolm S05E04
+https://castlempire.site:443/series/Demosmart2/NJnEMvrha2/138945.mp4
+#EXTINF:-1 tvg-name="Malcolm S05E05" tvg-logo="http://castlempire.site:8080/images/0d892a82b39ba67fcbc6900841b5e2d4.jpg" group-title="S | Comedia",Malcolm S05E05
+https://castlempire.site:443/series/Demosmart2/NJnEMvrha2/138946.mp4
+#EXTINF:-1 tvg-name="Malcolm S05E06" tvg-logo="http://castlempire.site:8080/images/0eee7a912edf0eabe2bd46c3c7470595.jpg" group-title="S | Comedia",Malcolm S05E06
+https://castlempire.site:443/series/Demosmart2/NJnEMvrha2/138947.mp4
+#EXTINF:-1 tvg-name="Malcolm S05E07" tvg-logo="http://castlempire.site:8080/images/6af1334de720dd01f0092a2912f9a46b.jpg" group-title="S | Comedia",Malcolm S05E07
+
