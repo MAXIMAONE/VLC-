@@ -1,2 +1,103 @@
-
-ZDXFGHMNVCCB RTURU
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="D| Sport TV +" tvg-logo="https://i.ibb.co/xj60G5t/Sport.png" group-title="Deportes PT BR IT",D| Sport TV +
+http://zgazy.com:8080/live/Demolite10/Demolite10/ef9253ca-cd3d-410f-8e07-db6a18db6dec.ts
+#EXTINF:-1 tvg-id="SPORTV2" tvg-name="D| Sport TV 2" tvg-logo="https://i.ibb.co/vw8Gt1W/sport-2.png" group-title="Deportes PT BR IT",D| Sport TV 2
+http://zgazy.com:8080/live/Demolite10/Demolite10/94ed4045-a0b9-4c49-ad57-17ce0a20b8e1.ts
+#EXTINF:-1 tvg-id="SPORTV3" tvg-name="D| Sport TV 3" tvg-logo="https://i.ibb.co/cbcg4Dk/ssport-3.png" group-title="Deportes PT BR IT",D| Sport TV 3
+http://zgazy.com:8080/live/Demolite10/Demolite10/68edfd9d-42be-45d7-aa42-7478f59362b3.ts
+#EXTINF:-1 tvg-id="" tvg-name="D| Sport TV 4" tvg-logo="https://i.ibb.co/R0x9t5V/sport-4.png" group-title="Deportes PT BR IT",D| Sport TV 4
+http://zgazy.com:8080/live/Demolite10/Demolite10/14aeeea0-74a2-46ee-8b84-d00bf9856b9f.ts
+#EXTINF:-1 tvg-id="" tvg-name="D| Sport TV 5" tvg-logo="https://i.ibb.co/64kCmBq/sport-5.png" group-title="Deportes PT BR IT",D| Sport TV 5
+http://zgazy.com:8080/live/Demolite10/Demolite10/01d0a312-02d1-4803-916b-e3e7c30a5a14.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium" tvg-logo="https://lgaz.cc/img/40SHixE.png" group-title="Deportes Premium",ESPN Premium
+http://zgazy.com:8080/live/Demolite10/Demolite10/ca1d3c25-3305-4c31-9384-f40c0c2d2884.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium HD" tvg-logo="https://lgaz.cc/img/40SHixE.png" group-title="Deportes Premium",ESPN Premium HD
+http://zgazy.com:8080/live/Demolite10/Demolite10/24746a4f-1b19-4e22-8d11-2d48897b2fc6.ts
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="Eurosport 1" tvg-logo="https://lgaz.cc/img/DYTeyWO.png" group-title="Deportes Premium",Eurosport 1
+http://zgazy.com:8080/live/Demolite10/Demolite10/e2793516-b7e5-459f-82ea-58fb4b05d3a1.ts
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="Eurosport 1 HD" tvg-logo="https://lgaz.cc/img/DYTeyWO.png" group-title="Deportes Premium",Eurosport 1 HD
+http://zgazy.com:8080/live/Demolite10/Demolite10/3294e862-701f-4810-8cb7-e07dbfb61c40.ts
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="Eurosport 2" tvg-logo="https://lgaz.cc/img/t6LGN4F.png" group-title="Deportes Premium",Eurosport 2
+http://zgazy.com:8080/live/Demolite10/Demolite10/362d149d-86a8-44fd-a7dc-b6589f192927.ts
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="Eurosport 2 HD" tvg-logo="https://lgaz.cc/img/t6LGN4F.png" group-title="Deportes Premium",Eurosport 2 HD
+http://zgazy.com:8080/live/Demolite10/Demolite10/303c76f6-dd4e-4c8f-a485-602a5ea0546b.ts
+#EXTINF:-1 tvg-id="fightnetwork.us" tvg-name="Fight Network" tvg-logo="https://lgaz.cc/img/I2qnx5t.png" group-title="Deportes Premium",Fight Network
+http://zgazy.com:8080/live/Demolite10/Demolite10/2ecd362c-0ba7-4997-9113-282c8ff9e5ed.ts
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM" tvg-name="FOX Sports Premium MX" tvg-logo="https://lgaz.cc/img/FI8osXa.png" group-title="Deportes Premium",FOX Sports Premium MX
+http://zgazy.com:8080/live/Demolite10/Demolite10/bae36ebf-6446-40a4-95dc-e41dd1abde93.ts
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM" tvg-name="FOX Sports Premium MX HD" tvg-logo="https://lgaz.cc/img/FI8osXa.png" group-title="Deportes Premium",FOX Sports Premium MX HD
+http://zgazy.com:8080/live/Demolite10/Demolite10/2d078854-d967-4b61-8d6b-94f1994938d7.ts
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="LaLiga" tvg-logo="https://lgaz.cc/img/DllzvsE.png" group-title="Deportes Premium",LaLiga
+http://zgazy.com:8080/live/Demolite10/Demolite10/b4f9dc4b-bddf-443f-a991-80691ccbe5af.ts
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="LaLiga por M+" tvg-logo="https://lgaz.cc/img/aF234GL.png" group-title="Deportes Premium",LaLiga por M+
+http://zgazy.com:8080/live/Demolite10/Demolite10/ef5e159b-4520-4302-8e78-1dc7aa4554b4.ts
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="LaLiga por M+ HD" tvg-logo="https://lgaz.cc/img/aF234GL.png" group-title="Deportes Premium",LaLiga por M+ HD
+http://zgazy.com:8080/live/Demolite10/Demolite10/193bc19a-f299-4bb0-9854-99645b5c1adb.ts
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="LaLiga por M+FHD" tvg-logo="https://lgaz.cc/img/aF234GL.png" group-title="Deportes Premium",LaLiga por M+FHD
+http://zgazy.com:8080/live/Demolite10/Demolite10/1b9a72a1-1497-4c0d-9b75-b5388a7c6223.ts
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="LaLiga TV BAR" tvg-logo="https://lgaz.cc/img/CV9GDiO.png" group-title="Deportes Premium",LaLiga TV BAR
+http://zgazy.com:8080/live/Demolite10/Demolite10/650f5e17-cf30-4ec2-bf06-0ac85f89ee0c.ts
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="LaLiga TV BAR HD" tvg-logo="https://lgaz.cc/img/CV9GDiO.png" group-title="Deportes Premium",LaLiga TV BAR HD
+http://zgazy.com:8080/live/Demolite10/Demolite10/2de6d124-dd10-4510-8eaa-aa589ffbaced.ts
+#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="M+ Liga de Campeones" tvg-logo="https://lgaz.cc/img/EnvT8e0.png" group-title="Deportes Premium",M+ Liga de Campeones
+http://zgazy.com:8080/live/Demolite10/Demolite10/ca164788-d3cd-4d8a-a533-2f2b0f94b2f1.ts
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="Movistar Deportes" tvg-logo="https://lgaz.cc/img/IswrCPt.png" group-title="Deportes Premium",Movistar Deportes
+http://zgazy.com:8080/live/Demolite10/Demolite10/1c3685bc-fd11-4639-a0a8-9574d225497c.ts
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="Movistar Deportes HD" tvg-logo="https://lgaz.cc/img/IswrCPt.png" group-title="Deportes Premium",Movistar Deportes HD
+http://zgazy.com:8080/live/Demolite10/Demolite10/64d65a05-7288-48c9-80b0-11e4b7281fbc.ts
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="Movistar Golf" tvg-logo="https://lgaz.cc/img/qtS44wq.png" group-title="Deportes Premium",Movistar Golf
+http://zgazy.com:8080/live/Demolite10/Demolite10/dd11058d-db33-4333-a9d1-4745895dd7fe.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Moto GP" tvg-logo="https://lgaz.cc/img/xHAJL7H.png" group-title="Deportes Premium",Movistar Moto GP
+http://zgazy.com:8080/live/Demolite10/Demolite10/a42af7c3-60e7-4b9f-a1e2-3d62fc1c47e7.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports" tvg-logo="https://lgaz.cc/img/4KX68Vi.png" group-title="Deportes Premium",Sky Sports
+http://zgazy.com:8080/live/Demolite10/Demolite10/344d5283-2f8f-43ae-85f0-5ba73d380f8e.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports HD" tvg-logo="https://lgaz.cc/img/4KX68Vi.png" group-title="Deportes Premium",Sky Sports HD
+http://zgazy.com:8080/live/Demolite10/Demolite10/de58742b-5957-4647-9fa0-ae4b5c1f2b6c.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports LaLiga" tvg-logo="https://lgaz.cc/img/4KX68Vi.png" group-title="Deportes Premium",Sky Sports LaLiga
+http://zgazy.com:8080/live/Demolite10/Demolite10/3365971a-9124-4b53-9fe0-a41b4c5f3b04.ts
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="Teledeporte" tvg-logo="https://lgaz.cc/img/5QY3e2W.png" group-title="Deportes Premium",Teledeporte
+http://zgazy.com:8080/live/Demolite10/Demolite10/20646a23-0449-42f9-8e1d-72d36f94461f.ts
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="Teledeporte HD" tvg-logo="https://lgaz.cc/img/5QY3e2W.png" group-title="Deportes Premium",Teledeporte HD
+http://zgazy.com:8080/live/Demolite10/Demolite10/064c8f24-768c-4e58-a796-9c203f68c841.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports + Guatemala" tvg-logo="https://lgaz.cc/img/Xl2bz8I.png" group-title="Tigo Sports",Tigo Sports + Guatemala
+http://zgazy.com:8080/live/Demolite10/Demolite10/50409ec6-ddce-4ecd-8079-f45ea6074aa5.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports + Paraguay  HD" tvg-logo="https://lgaz.cc/img/1StyEXq.png" group-title="Tigo Sports",Tigo Sports + Paraguay  HD
+http://zgazy.com:8080/live/Demolite10/Demolite10/b1af2938-f398-4cb4-af5a-7146a80f348d.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports 2 Bolivia" tvg-logo="https://lgaz.cc/img/9Morx56.png" group-title="Tigo Sports",Tigo Sports 2 Bolivia
+http://zgazy.com:8080/live/Demolite10/Demolite10/95b3d0f1-4b98-46a7-83b5-ee41738f4f77.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports 2 Bolivia HD" tvg-logo="https://lgaz.cc/img/9Morx56.png" group-title="Tigo Sports",Tigo Sports 2 Bolivia HD
+http://zgazy.com:8080/live/Demolite10/Demolite10/2773632d-ac09-425c-a116-18ce2627d6f6.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports 2 Paraguay" tvg-logo="https://lgaz.cc/img/1StyEXq.png" group-title="Tigo Sports",Tigo Sports 2 Paraguay
+http://zgazy.com:8080/live/Demolite10/Demolite10/a1a3b3c5-b5df-4ef3-b0f1-145b0e21a624.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports 3 Bolivia" tvg-logo="https://lgaz.cc/img/9Morx56.png" group-title="Tigo Sports",Tigo Sports 3 Bolivia
+http://zgazy.com:8080/live/Demolite10/Demolite10/79884066-490a-4796-939d-cc2629559d08.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports 3 Bolivia HD" tvg-logo="https://lgaz.cc/img/9Morx56.png" group-title="Tigo Sports",Tigo Sports 3 Bolivia HD
+http://zgazy.com:8080/live/Demolite10/Demolite10/36a086da-0592-4e62-95f9-9ba5da35cd08.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Bolivia" tvg-logo="https://lgaz.cc/img/9Morx56.png" group-title="Tigo Sports",Tigo Sports Bolivia
+http://zgazy.com:8080/live/Demolite10/Demolite10/613a19fa-e448-4f39-99bf-db1d382a6ded.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Bolivia  HD" tvg-logo="https://lgaz.cc/img/9Morx56.png" group-title="Tigo Sports",Tigo Sports Bolivia  HD
+http://zgazy.com:8080/live/Demolite10/Demolite10/952d1930-bd55-46ad-bc20-9acf5470b3d2.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Costa Rica" tvg-logo="https://lgaz.cc/img/5LH3NWt.png" group-title="Tigo Sports",Tigo Sports Costa Rica
+http://zgazy.com:8080/live/Demolite10/Demolite10/79e536e2-6342-4b75-8077-2ad9a04b9d9c.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Costa Rica  HD" tvg-logo="https://lgaz.cc/img/5LH3NWt.png" group-title="Tigo Sports",Tigo Sports Costa Rica  HD
+http://zgazy.com:8080/live/Demolite10/Demolite10/70addb57-c666-4e8d-b0a4-faf08351dc8b.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Costa Rica FHD" tvg-logo="https://lgaz.cc/img/5LH3NWt.png" group-title="Tigo Sports",Tigo Sports Costa Rica FHD
+http://zgazy.com:8080/live/Demolite10/Demolite10/03317502-e5c9-4436-97c0-ccf8e2b78b9d.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Guatemala" tvg-logo="https://lgaz.cc/img/Xl2bz8I.png" group-title="Tigo Sports",Tigo Sports Guatemala
+http://zgazy.com:8080/live/Demolite10/Demolite10/ac28d9d4-330d-4014-989d-e138a0a0a784.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Guatemala  HD" tvg-logo="https://lgaz.cc/img/Xl2bz8I.png" group-title="Tigo Sports",Tigo Sports Guatemala  HD
+http://zgazy.com:8080/live/Demolite10/Demolite10/3d7e749d-2512-4279-8c05-f0ab93e2f485.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Honduras  HD" tvg-logo="https://lgaz.cc/img/NpqiYvm.png" group-title="Tigo Sports",Tigo Sports Honduras  HD
+http://zgazy.com:8080/live/Demolite10/Demolite10/f14b126b-9d3b-4be6-9133-73b3d5d2e83c.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Honduras  HD opc" tvg-logo="https://lgaz.cc/img/NpqiYvm.png" group-title="Tigo Sports",Tigo Sports Honduras  HD opc
+http://zgazy.com:8080/live/Demolite10/Demolite10/5fb281d9-a57b-4864-a778-7fb1ee8af78d.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Panama" tvg-logo="https://lgaz.cc/img/ZdQCRNK.png" group-title="Tigo Sports",Tigo Sports Panama
+http://zgazy.com:8080/live/Demolite10/Demolite10/eee63ed9-49bc-488c-9eaf-89b5a3e0d762.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Paraguay" tvg-logo="https://lgaz.cc/img/1StyEXq.png" group-title="Tigo Sports",Tigo Sports Paraguay
+http://zgazy.com:8080/live/Demolite10/Demolite10/d1f355b5-0342-418f-9a58-8b747dc42325.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Paraguay  HD" tvg-logo="https://lgaz.cc/img/1StyEXq.png" group-title="Tigo Sports",Tigo Sports Paraguay  HD
+http://zgazy.com:8080/live/Demolite10/Demolite10/3f272412-6456-4c7e-a395-0671ebdd8015.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Salvador  HQ" tvg-logo="https://lgaz.cc/img/WXVgdIY.png" group-title="Tigo Sports",Tigo Sports Salvador  HQ
+http://zgazy.com:8080/live/Demolite10/Demolite10/c553dae5-8a9f-410d-ae48-48f7f2fc175d.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Salvador*" tvg-logo="https://lgaz.cc/img/WXVgdIY.png" group-title="Tigo Sports",Tigo Sports Salvador*
+hhhhh
